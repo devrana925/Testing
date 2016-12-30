@@ -2,3 +2,11 @@ if(Dev is dumb == true)
 {
 	System.out.println("idk");
 }
+
+
+
+
+
+
+
+terminal
